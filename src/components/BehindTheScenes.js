@@ -9,6 +9,12 @@ import Jail from '../assets/Jail.webp'
 import Burn from '../assets/Burn.webp'
 import Friends from '../assets/Friends.webp'
 import Edit from '../assets/Edit.webp'
+import cBall from '../assets/cBall.webp'
+import Bridge from '../assets/Bridge.webp'
+import Shocked from '../assets/Shocked.webp'
+import Gold from '../assets/Gold.webp'
+import Guns from '../assets/Guns.webp'
+import Howl from '../assets/Howl.webp'
 
 const BehindTheScenes = () => {
 
@@ -50,6 +56,30 @@ const BehindTheScenes = () => {
         <img className="Edit" 
         alt="Edit" 
         src={Edit}/>
+
+        <img className="cBall" 
+        alt="cBall" 
+        src={cBall}/>
+
+        <img className="Bridge" 
+        alt="Bridge" 
+        src={Bridge}/>
+
+        <img className="Shocked" 
+        alt="Shocked" 
+        src={Shocked}/>
+
+        <img className="Gold" 
+        alt="Gold" 
+        src={Gold}/>
+
+        <img className="Guns" 
+        alt="Guns" 
+        src={Guns}/>
+
+        <img className="Howl" 
+        alt="Howl" 
+        src={Howl}/>
       
     </>
   )
