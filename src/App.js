@@ -7,6 +7,7 @@ import Footer from './components/Footer'
 import About from './components/About'
 import News from './components/News'
 import BehindTheScenes from './components/BehindTheScenes'
+import Development from './components/Development'
 
 import './styles/App.css';
 
@@ -18,7 +19,8 @@ function App() {
       {/* <Home /> */}
       {/* <About /> */}
       {/* <News /> */}
-      <BehindTheScenes/>
+      {/* <BehindTheScenes/> */}
+      <Development />
       <Footer />
     </div>
   );
