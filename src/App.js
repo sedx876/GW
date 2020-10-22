@@ -8,6 +8,7 @@ import About from './components/About'
 import News from './components/News'
 import BehindTheScenes from './components/BehindTheScenes'
 import Development from './components/Development'
+import Films from './components/Films'
 
 import './styles/App.css';
 
@@ -20,7 +21,8 @@ function App() {
       {/* <About /> */}
       {/* <News /> */}
       {/* <BehindTheScenes/> */}
-      <Development />
+      {/* <Development /> */}
+      <Films />
       <Footer />
     </div>
   );
